@@ -119,7 +119,7 @@
       itemsDesktop : [1199,1],
       itemsDesktopSmall : [1199,1],
       itemsTablet : [1199,1],
-      itemsMobile : [1199,1],
+      itemsMobile : [999,1],
       autoPlay : false,
 
       // CSS Styles
