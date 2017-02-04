@@ -623,7 +623,7 @@ ul.portfolio-image li:hover img {
 }
 ul.portfolio-image li:hover .image-bg {opacity: 1;}
 ul.portfolio-image li:hover .description-wrap {
-  background: rgba(186, 186, 186, 0.6);
+  background: rgba(255, 125, 0.0, 0.6);
 }
 ul.portfolio-image li img {
   position: absolute;
@@ -654,7 +654,7 @@ ul.portfolio-image li .image-bg {
   height: 100%;
   display: inline-block;
   -ms-transform: translate(-50%, -50%); /* IE 9 */
-  -webkit-transform: translate(-50%, -50%); /* Chrome, Safari, Opera */
+  -webkit-transform: translate(-50%, -50%); */ /* Chrome, Safari, Opera */
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
